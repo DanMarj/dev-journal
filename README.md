@@ -1,27 +1,21 @@
 # DevJournal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+The point of this dev journal is to stay in the practice of programming. It's an opportunity and a single location to see all projects and areas of interest I'm exploring.
+Those projects might be low level AI/ML development, web development, game dev, etc. Whatever is interesting.
 
-## Development server
+On top of that, my hope is that it will serve as an entry into my software dev portfolio as well as the place to find the portfolio itself. I'll demonstrate that I am able to build a modern, pretty, easy to use web UI.
+
+I have a number of friends as well who are sort of in a similar position to myself - unemployed but looking for work within software development - who I will also give the opportunity to contribute. I believe that working collaboratively and publicly on a project like this will do a lot to present us well to potential employers.
+
+Basically this project serves many purposes, but at its core its just a dev journal.
+
+## Running locally
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+To get more info on that check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
