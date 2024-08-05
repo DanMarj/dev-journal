@@ -5,7 +5,7 @@ Those projects might be low level AI/ML development, web development, game dev, 
 
 On top of that, my hope is that it will serve as an entry into my software dev portfolio as well as the place to find the portfolio itself. I'll demonstrate that I am able to build a modern, pretty, easy to use web UI.
 
-I have a number of friends as well who are sort of in a similar position to myself - unemployed but looking for work within software development - who I will also give the opportunity to contribute. I believe that working collaboratively and publicly on a project like this will do a lot to present us well to potential employers.
+I have a number of friends as well who are sort of in a similar position to myself - unemployed but looking for work within software development - who may also contribute. I believe that working collaboratively and publicly on a project like this will do a lot to present us well to potential employers.
 
 Basically this project serves many purposes, but at its core its just a dev journal.
 

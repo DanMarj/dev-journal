@@ -12,14 +12,19 @@
   }
 
   .main-panel {
-    background-color: blue;
     width:67%;
     float:left;
+    margin: 0 10px 0 0;
+    padding: 0 0 0 10px;
+    background-color: white;
+    border-radius: 10px;
   }
 
   .side-panel {
-    background-color: red;
+    background-color: white;
     width:33%;
+    border-radius: 10px;
+    padding: 0 0 0 10px;
   }
 
   h1,
@@ -73,9 +78,10 @@
 
   .content {
     display: flex;
-    margin: 82px auto 32px;
-
+    margin: 72px 5% 32px;
     flex-direction: row;
+    align-items: stretch;
+    height: 100%;
   }
 
   svg.material-icons {
